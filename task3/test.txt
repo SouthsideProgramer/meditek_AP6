@@ -1,0 +1,17 @@
+=== BAI TAP LAP TRINH SOCKET - TASK 3 ===
+Gui file tu Server toi Client qua TCP va UDP
+
+Ngay tao: 2026-06-30
+Mon hoc: Thuc hanh Lap trinh Socket
+Noi dung: File transfer TCP & UDP
+
+--- DONG 10: Day la dong thu 10 de kiem tra file ---
+--- DONG 20: Day la dong thu 20 de kiem tra file ---
+--- DONG 30: Day la dong thu 30 de kiem tra file ---
+
+Ky tu dac biet: !@#$%^&*()_+-=[]{}|;:',.<>?/~\`
+
+So thuc: 3.14159265358979323846
+Hex: DEADBEEF CAFEBABE
+
+EOF - Ket thuc file test.txt
